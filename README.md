@@ -22,37 +22,38 @@
 
 ### 📫 Contact
 
-- Email: dbsgur123321@gmail.com
+- Email: yunhyuk@kotori9.dev
 - Arcademic Email: dbsgur123321@dimigo.hs.kr
 - Blog: [jobgut](https://velog.io/@dbsgur123321/posts)
 
-### 🔭 Github Stats 본계,부계,부부계
+### 🔭 Github Stats
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=snowman0919&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kotori0919&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowman0919&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotori0919&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
-// ### 🧑🏻‍💻 Alforithm Stats
+<!--
+### 🧑🏻‍💻 Alforithm Stats
 
-// <p align="center">
-//  <a href="https://solved.ac/{handle}">
-//    <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle}" alt="Solved.ac 프로필" />
-//  </a>
-//  &nbsp;&nbsp;&nbsp;&nbsp; <!-- 뱃지 사이 간격 -->
-//  <a href="https://solved.ac/{handle}">
-//    <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle}" alt="Solved.ac 프로필" />
-//  </a>
-//  &nbsp;&nbsp;&nbsp;&nbsp; <!-- 뱃지 사이 간격 -->
-//  <a href="https://solved.ac/dbsgur123321">
-//    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dbsgur123321" alt="Solved.ac 프로필" />
-//  </a>
-//</p>
-
+<p align="center">
+  <a href="https://solved.ac/{handle}">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle}" alt="Solved.ac 프로필" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://solved.ac/{handle}">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle}" alt="Solved.ac 프로필" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://solved.ac/dbsgur123321">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dbsgur123321" alt="Solved.ac 프로필" />
+  </a>
+</p>
+-->
 
 
 <!--
